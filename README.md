@@ -10,3 +10,8 @@ Model: Contains the business logic and data management code. It encapsulates the
 View: Handles the user interface and presentation logic. It interacts with the user and displays data from the model.
 
 Controller: Acts as an intermediary between the model and the view. It receives user input from the view, updates the model accordingly, and updates the view to reflect the changes.
+
+#Contribution
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+
+When contributing, please follow the existing coding style, maintain clear and concise commit messages, and provide appropriate documentation when necessary.
